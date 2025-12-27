@@ -1,5 +1,6 @@
 TP 3 – Les formulaires en Symfony
-Objectif
+
+Objectif:
 
 Le but de ce TP est de créer un formulaire produit en Symfony, à partir d’un code HTML fourni, en utilisant :
 
@@ -9,7 +10,7 @@ Form Types Symfony pour gérer le formulaire
 
 Bootstrap 5.3 pour le design
 
-Description du travail réalisé
+Description du travail réalisé:
 
 Création d’une page produit avec Twig.
 
@@ -23,7 +24,7 @@ Intégration de Bootstrap 5.3 via CDN.
 
 Activation de la protection CSRF pour la sécurité.
 
-Fonctionnalités
+Fonctionnalités:
 
 Affichage d’un produit (casque audio).
 
@@ -33,7 +34,7 @@ Sélection de la couleur.
 
 Soumission du formulaire pour ajouter au panier.
 
-Technologies utilisées
+Technologies utilisées:
 
 PHP 8
 
@@ -43,7 +44,7 @@ Twig
 
 Bootstrap 5.3
 
-Auteur
+Auteur:
 
-Omar MERIMI
+Oussama YOUSFI
 TP réalisé dans le cadre de l’année universitaire 2025/2026 – EHEI
